@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hangman/static/css/main.afd7172b.chunk.css",
-    "main.js": "/hangman/static/js/main.c9ddcd2e.chunk.js",
-    "main.js.map": "/hangman/static/js/main.c9ddcd2e.chunk.js.map",
+    "main.css": "/hangman/static/css/main.b38aab36.chunk.css",
+    "main.js": "/hangman/static/js/main.c6fda77b.chunk.js",
+    "main.js.map": "/hangman/static/js/main.c6fda77b.chunk.js.map",
     "runtime-main.js": "/hangman/static/js/runtime-main.7f7a5d51.js",
     "runtime-main.js.map": "/hangman/static/js/runtime-main.7f7a5d51.js.map",
-    "static/js/2.ffb85a10.chunk.js": "/hangman/static/js/2.ffb85a10.chunk.js",
-    "static/js/2.ffb85a10.chunk.js.map": "/hangman/static/js/2.ffb85a10.chunk.js.map",
+    "static/js/2.04f046c0.chunk.js": "/hangman/static/js/2.04f046c0.chunk.js",
+    "static/js/2.04f046c0.chunk.js.map": "/hangman/static/js/2.04f046c0.chunk.js.map",
     "index.html": "/hangman/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/hangman/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.ffb85a10.chunk.js.LICENSE.txt": "/hangman/static/js/2.ffb85a10.chunk.js.LICENSE.txt"
+    "static/css/main.b38aab36.chunk.css.map": "/hangman/static/css/main.b38aab36.chunk.css.map",
+    "static/js/2.04f046c0.chunk.js.LICENSE.txt": "/hangman/static/js/2.04f046c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f7a5d51.js",
-    "static/js/2.ffb85a10.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.c9ddcd2e.chunk.js"
+    "static/js/2.04f046c0.chunk.js",
+    "static/css/main.b38aab36.chunk.css",
+    "static/js/main.c6fda77b.chunk.js"
   ]
 }
